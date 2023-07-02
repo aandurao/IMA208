@@ -1,5 +1,5 @@
-*.ipynb
 __MACOSX/
 __pycache__/
 .ipynb_checkpoints/
 /Cours/
+TP3/output/video.avi
